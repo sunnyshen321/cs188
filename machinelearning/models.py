@@ -304,3 +304,5 @@ class LanguageIDModel(object):
 
             self.lr *= .97
 
+
+            
